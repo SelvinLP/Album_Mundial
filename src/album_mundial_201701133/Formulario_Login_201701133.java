@@ -12,10 +12,13 @@ import javax.swing.JOptionPane;
  * @author Aragon Perez
  */
 public class Formulario_Login_201701133 extends javax.swing.JFrame {
-    Formulario_Admin_201701133 fmad=new Formulario_Admin_201701133();
+    Lista_Usuarios_201701133 ltsu=new Lista_Usuarios_201701133();
+    Formulario_Administrador_201701133 fma=new Formulario_Administrador_201701133();
+    Formulario_Usuario_201701133 fmus=new Formulario_Usuario_201701133();
     /**
      * Creates new form Formulario_Login_201701133
      */
+    Nodo_Usuario_201701133 aux;
     public Formulario_Login_201701133() {
         initComponents();
     }
@@ -35,11 +38,10 @@ public class Formulario_Login_201701133 extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
         jPasswordField1 = new javax.swing.JPasswordField();
         jTextField1 = new javax.swing.JTextField();
-        jButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel2.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel2.setBackground(new java.awt.Color(255, 153, 0));
 
         jLabel1.setText("Usuario");
 
@@ -52,13 +54,6 @@ public class Formulario_Login_201701133 extends javax.swing.JFrame {
 
         jLabel2.setText("Contraseña");
 
-        jButton2.setText("Crear Usuario");
-        jButton2.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton2ActionPerformed(evt);
-            }
-        });
-
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
         jPanel2Layout.setHorizontalGroup(
@@ -67,8 +62,7 @@ public class Formulario_Login_201701133 extends javax.swing.JFrame {
                 .addGap(44, 44, 44)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addComponent(jButton2)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 64, Short.MAX_VALUE)
+                        .addGap(0, 0, Short.MAX_VALUE)
                         .addComponent(jButton1)
                         .addGap(35, 35, 35))
                     .addGroup(jPanel2Layout.createSequentialGroup()
@@ -77,7 +71,7 @@ public class Formulario_Login_201701133 extends javax.swing.JFrame {
                             .addComponent(jLabel1)
                             .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(jPasswordField1, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
+                        .addContainerGap(124, Short.MAX_VALUE))))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -91,9 +85,7 @@ public class Formulario_Login_201701133 extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addComponent(jPasswordField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(32, 32, 32)
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jButton1)
-                    .addComponent(jButton2))
+                .addComponent(jButton1)
                 .addGap(23, 23, 23))
         );
 
@@ -112,21 +104,32 @@ public class Formulario_Login_201701133 extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        ltsu.mostrar();
+        
+        String a =jTextField1.getText();
+        System.out.println(a);
+        System.err.println(ltsu.BuscarUsu(a));
+        
         if((jTextField1.getText().equals("Administrador"))&&(jPasswordField1.getText().equals("201701133"))){
              JOptionPane.showMessageDialog(null, "Acaba de Ingresar correctamente");
-             Formulario_Login_201701133 fml=new Formulario_Login_201701133();
-             this.dispose();
-             fmad.show();
+             this.hide();
+             fma.show();
+             jTextField1.setText("");
+             jPasswordField1.setText("");
+        }else{
+            Formulario_CreacionUsu_201701133 fmu=new Formulario_CreacionUsu_201701133();
+            aux=fmu.Obtener_usu(jTextField1.getText());
+            if(aux.Nombre.equals(jTextField1.getText())){
+                if(aux.password.equals(jPasswordField1.getText())){
+                    this.hide();
+                    fmus.show();
+                     JOptionPane.showMessageDialog(null, "Acaba de Ingresar correctamente");
+                }
+            }
         }
-    }//GEN-LAST:event_jButton1ActionPerformed
+        
 
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-       Formulario_Login_201701133 fml=new Formulario_Login_201701133();
-       fml.dispose();
-       Formulario_CreacionUsu_201701133 fmcu=new Formulario_CreacionUsu_201701133();
-       fmcu.show();
-       this.dispose();
-    }//GEN-LAST:event_jButton2ActionPerformed
+    }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -165,7 +168,6 @@ public class Formulario_Login_201701133 extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
-    private javax.swing.JButton jButton2;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JPanel jPanel2;

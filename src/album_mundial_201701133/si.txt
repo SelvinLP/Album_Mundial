@@ -1,0 +1,2 @@
+selvin,2,Delantero,Titular,2
+Lisandro,3,Delantero,Titular,1

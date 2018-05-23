@@ -9,13 +9,14 @@ package album_mundial_201701133;
  *
  * @author Aragon Perez
  */
-public class Lista_Equipo_201701133 {
-    Nodo_Equipo_201701133 Inicio;
-    Nodo_Equipo_201701133 Fin;
+public class Lista_Jugadores_201701133 {
+    Nodo_Jugador_201701133 Inicio;
+    Nodo_Jugador_201701133 Fin;
 
-    public Lista_Equipo_201701133() {
+    public Lista_Jugadores_201701133() {
         this.Inicio=null;
         this.Fin=null;
+    
     }
     private boolean Vacia(){
         boolean vacio=false;
@@ -24,12 +25,13 @@ public class Lista_Equipo_201701133 {
         }
         return vacio;
     }
-    private void enlazar (Nodo_Equipo_201701133 Nodoa, Nodo_Equipo_201701133 Nodob){
+     private void enlazar (Nodo_Jugador_201701133 Nodoa, Nodo_Jugador_201701133 Nodob){
         Nodoa.siguiente=Nodob;
         Nodob.anterior=Nodoa;
     }
-    public void Insertar_Equipo(int ida,String nm,int mud){
-        Nodo_Equipo_201701133 nuevo=new Nodo_Equipo_201701133(ida,nm,mud);
+    //insertar un usuario
+    public void Insertar_Jugador(String Nm,int No, String pos, String tob, int ide){
+        Nodo_Jugador_201701133 nuevo=new Nodo_Jugador_201701133(Nm,No,pos,tob,ide);
         if(Vacia()){
             Inicio=nuevo;
             Fin=nuevo;
@@ -38,9 +40,19 @@ public class Lista_Equipo_201701133 {
             Inicio=nuevo;
         }
     }
-    
+    public Nodo_Jugador_201701133 Buscar(String nombre){
+        Nodo_Jugador_201701133 buscado=null;
+        Nodo_Jugador_201701133 iterador=Inicio;
+        while((buscado== null )&&(iterador!=null)){
+            if(iterador.Nombre.equals(nombre)){
+                buscado=iterador;
+            }
+            iterador=iterador.siguiente;
+        }
+        return buscado;
+    }
      public void mostrar(){
-         Nodo_Equipo_201701133 iterador=Inicio;
+        Nodo_Jugador_201701133 iterador=Inicio;
         while(iterador!=null){
             if(iterador.Nombre.equals("")){
             }else{
@@ -49,17 +61,6 @@ public class Lista_Equipo_201701133 {
             }
             
         }
-    }
-     public Nodo_Equipo_201701133 Buscar(int idw){
-        Nodo_Equipo_201701133 buscado=null;
-        Nodo_Equipo_201701133 iterador=Inicio;
-        while((buscado== null )&&(iterador!=null)){
-            if(iterador.id.equals(idw)){
-                buscado=iterador;
-            }
-            iterador=iterador.siguiente;
-        }
-        return buscado;
     }
     
 }

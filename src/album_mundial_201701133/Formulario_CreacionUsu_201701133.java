@@ -36,7 +36,9 @@ public class Formulario_CreacionUsu_201701133 extends javax.swing.JFrame {
         this.jTextField3 = jTextField3;
         this.jTextField4 = jTextField4;
     }
-
+    public Nodo_Usuario_201701133 Obtener_usu(String u){
+        return ltsu.Buscar(u);
+    }
     /**
      * Creates new form Formulario_CreacionUsu_201701133
      */

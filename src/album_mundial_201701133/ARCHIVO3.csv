@@ -1,0 +1,576 @@
+ Igor Akinfeev,1,portero,titular,01
+ Igor Smolnikov,2,medio,titular,01
+ Viktor Vasin,3,medio,titular,01
+ Mario Fernandes,4,medio,titular,01
+ Fedor Kudryashov,5,medio,titular,01
+ Ilya Kutepov,6,delantero,titular,01
+ Dmitri Kombarov,7,delantero,titular,01
+ Aleksei Miranchuk,8,delantero,titular,01
+ Denis Glushakov,9,delantero,titular,01
+ Aleksandr Golovin,10,Defensa,titular,01
+ Yuri Zhirkov,11,defensa,titular,01
+ Aleksandr Samedov,12,defensa,banca,01
+ Aleksandr Erokhin,13,defensa,banca,01
+ Alan Dzagoev,14,defensa,banca,01
+ Daler Kuzyayev,15,defensa,banca,01
+ Dmitry Poloz,16,defensa,banca,01
+ Fedor Smolov,17,defensa,banca,01
+ Aleksandr Kokorin,18,defensa,banca,01
+ Abdullah Al Mayouf,1,portero,titular,02
+ Osama Hawsawi,2,medio,titular,02
+ Abdullah Al Zori,3,medio,titular,02
+ Mansoor Al Harbi,4,medio,titular,02
+ Omar Hawsawi,5,medio,titular,02
+ Yasser Al Shahrani,6,delantero,titular,02
+ Motaz Hawsawi ,7,delantero,titular,02
+ Mohammed Al Breik,8,delantero,titular,02
+ Taisir Al Jassim,9,delantero,titular,02
+ Salman Al Faraj,10,defensa,titular,02
+ Abdulmalek Al Khaibri,11,defensa,titular,02
+ Salman Al Moasher ,12,defensa,banca,02
+ Yahya Al Shehri ,13,defensa,banca,02
+ Salem Al Dawsari ,14,defensa,banca,02
+ Nawaf Al Abed,15,defensa,banca,02
+ Mohammad Al Sahlawi,16,defensa,banca,02
+ Nasser Al Shamrani ,17,defensa,banca,02
+ Fahad Al Muwallad ,18,defensa,banca,02
+ Essam El Hadary,1,portero,titular,03
+ Ali Gabr,2,medio,titular,03
+ Ahmed El Mohamady,3,medio,titular,03
+ Omar Gaber,4,medio,titular,03
+ Ramy Rabia,5,medio,titular,03
+ Ahmed Hegazi,6,delantero,titular,03
+ Ahmed Abdelmonem Fathy,7,delantero,titular,03
+ Mohamed Abdel Shafy,8,delantero,titular,03
+ Saad Samir,9,delantero,titular,03
+ Tarek Hamed,10,defensa,titular,03
+ Mahmoud Kahraba,11,defensa,titular,03
+ Mohamed Elneny,12,defensa,banca,03
+ Mahmoud Trezeguet,13,defensa,banca,03
+ Abdallah Said,14,defensa,banca,03
+ Ramadan Sobhi,15,defensa,banca,03
+ Ahmed Hassan,16,defensa,banca,03
+ Mohamed Salah,17,defensa,banca,03
+ Amr Gamal,18,defensa,banca,03
+ Fernando Muslera,1,portero,titular,04
+ Masi Pereira,2,medio,titular,04
+ Diego Godin,3,medio,titular,04
+ Martin Caceres,4,medio,titular,04
+ Jose Gimenez,5,medio,titular,04
+ Sebastian Coates,6,delantero,titular,04
+ Gaston Silva,7,delantero,titular,04
+ Mathias Corujo,8,delantero,titular,04
+ Egidio Arevalo Rios,9,delantero,titular,04
+ Alvaro Gonzalez,10,defensa,titular,04
+ Nicolas Lodeiro,11,defensa,titular,04
+ Carlos Sanchez,12,defensa,banca,04
+ Cristian Rodriguez,13,defensa,banca,04
+ Matias Vecino,14,defensa,banca,04
+ Edinson Cavani,15,defensa,banca,04
+ Luis Suarez,16,defensa,banca,04
+ Cristhian Stuani,17,defensa,banca,04
+ Diego Rolan,18,defensa,banca,04
+ Rui Patricio,1,portero,titular,05
+ Bruno Alves,2,medio,titular,05
+ Pepe,3,medio,titular,05
+ Jose Fonte,4,medio,titular,05
+ Eliseu,5,medio,titular,05
+ Cedric,6,delantero,titular,05
+ Raphael Guerreiro,7,delantero,titular,05
+ Joao Moutinho,8,delantero,titular,05
+ Joao Mario,9,delantero,titular,05
+ Danilo Pereira,10,defensa,titular,05
+ William Carvalho,11,defensa,titular,05
+ Andre Gomes,12,defensa,banca,05
+ Ricardo Quaresma,13,defensa,banca,05
+ Bernardo Silva,14,defensa,banca,05
+ Andre Silva,15,defensa,banca,05
+ Gelson Martins,16,defensa,banca,05
+ Cristiano Ronaldo,17,defensa,banca,05
+ Nani,18,defensa,banca,05
+ David de Gea,1,portero,titular,06
+ Jordi Alba,2,medio,titular,06
+ Nacho,3,medio,titular,06
+ Nacho Monreal,4,medio,titular,06
+ Gerard Pique,5,medio,titular,06
+ Sergio Ramos,6,delantero,titular,06
+ Daniel Carvajal,7,delantero,titular,06
+ Sergio Busquets,8,delantero,titular,06
+ Thiago Alcantara,9,delantero,titular,06
+ Isco,10,defensa,titular,06
+ Koke,11,defensa,titular,06
+ Marco Asensio,12,defensa,banca,06
+ Andres Iniesta,13,defensa,banca,06
+ David Villa,14,defensa,banca,06
+ Saul Niguez,15,defensa,banca,06
+ Alvaro Morata,16,defensa,banca,06
+ Vitolo,17,defensa,banca,06
+ Diego Costa,18,defensa,banca,06
+ Munir Mohamedi,1,portero,titular,07
+ Medhi Benatia,2,medio,titular,07
+ Nabil Dirar,3,medio,titular,07
+ Romain Saiss,4,medio,titular,07
+ Fouad Chafik,5,medio,titular,07
+ Hamza Mendyl,6,delantero,titular,07
+ Achraf Hakimi,7,delantero,titular,07
+ Mbark Boussoufa,8,delantero,titular,07
+ Karim El Ahmadi,9,delantero,titular,07
+ Younes Belhanda,10,defensa,titular,07
+ Nordin Amrabat,11,defensa,titular,07
+ Faycal Fajr,12,defensa,banca,07
+ Hakim Ziyech,13,defensa,banca,07
+ Youssef Ait Bennasser,14,defensa,banca,07
+ Khalid Boutaib,15,defensa,banca,07
+ Rachid Alioui,16,defensa,banca,07
+ Aziz Bouhaddouz,17,defensa,banca,07
+ Youssef En Nesyri,18,defensa,banca,07
+ Alireza Beiranvand,1,portero,titular,08
+ Pejman Montazeri,2,medio,titular,08
+ Vouria Ghafouri,3,medio,titular,08
+ Jalal Hosseini,4,medio,titular,08
+ Milad Mohammadi,5,medio,titular,08
+ Morteza Pouraliganji,6,delantero,titular,08
+ Ramin Rezaeian,7,delantero,titular,08
+ Ehsan Hajsafi,8,delantero,titular,08
+ Omid Ebrahimi,9,delantero,titular,08
+ Saeid Ezatolahi,10,defensa,titular,08
+ Vahid Amiri,11,defensa,titular,08
+ Alireza Jahanbakhsh,12,defensa,banca,08
+ Ashkan Dejagah,13,defensa,banca,08
+ Saman Ghoddos,14,defensa,banca,08
+ Mehdi Taremi,15,defensa,banca,08
+ Karim Ansarifard,16,defensa,banca,08
+ Reza Ghoochannejhad,17,defensa,banca,08
+ Sardar Azmoun,18,defensa,banca,08
+ Hugo Lloris,1,portero,titular,09
+ Raphael Varane,2,medio,titular,09
+ Lucas Digne,3,medio,titular,09
+ Djibril Sidibe,4,medio,titular,09
+ Samuel Umtiti,5,medio,titular,09
+ Layvin Kurzawa,6,delantero,titular,09
+ Laurent Koscielny,7,delantero,titular,09
+ Blaise Matuidi,8,delantero,titular,09
+ N'Golo Kante,9,delantero,titular,09
+ Thomas Lemar,10,defensa,titular,09
+ Adrien Rabiot,11,defensa,titular,09
+ Paul Pogba,12,defensa,banca,09
+ Olivier Giroud,13,defensa,banca,09
+ Antoine Griezmann,14,defensa,banca,09
+ Alesandre Lacazette,15,defensa,banca,09
+ Kylian Mbappe,16,defensa,banca,09
+ Ousmane Dembele,17,defensa,banca,09
+ Anthony Martial,18,defensa,banca,09
+ Mathew Ryan,1,portero,titular,10
+ Mitchell Langerak,2,medio,titular,10
+ Milos Degenek,3,medio,titular,10
+ Bailey Wright,4,medio,titular,10
+ Aziz Behich,5,medio,titular,10
+ Trent Sainsbury,6,delantero,titular,10
+ Ryan McGowan,7,delantero,titular,10
+ Mark Milligan,8,delantero,titular,10
+ Aaron Mooy,9,delantero,titular,10
+ James Troisi,10,defensa,titular,10
+ Mile Jedinak,11,defensa,titular,10
+ Massimo Luongo,12,defensa,banca,10
+ Jackson Irvine,13,defensa,banca,10
+ Tom Rogic,14,defensa,banca,10
+ Tim Cahill,15,defensa,banca,10
+ Mathew Leckie,16,defensa,banca,10
+ Tomi Juric,17,defensa,banca,10
+ Robbie Kruse,18,defensa,banca,10
+ Pedro Gallese,1,portero,titular,11
+ Carlos Caceda,2,medio,titular,11
+ Aldo Corzo,3,medio,titular,11
+ Miguel Trauco,4,medio,titular,11
+ Christian Ramos,5,medio,titular,11
+ Luis Advincula,6,delantero,titular,11
+ Alberto Rodriguez,7,delantero,titular,11
+ Miguel Araujo,8,delantero,titular,11
+ Christian Cueva,9,delantero,titular,11
+ Renato Tapia,10,defensa,titular,11
+ Andy Polo,11,defensa,titular,11
+ Yoshimar Yotun,12,defensa,banca,11
+ Edison Flores,13,defensa,banca,11
+ Paolo Hurtado,14,defensa,banca,11
+ Paolo Guerrero,15,defensa,banca,11
+ Jefferson Farfan,16,defensa,banca,11
+ Raul Ruidiaz,17,defensa,banca,11
+ Andre Carrillo,18,defensa,banca,11
+ Kasper Schmeichel,1,portero,titular,12
+ Jannik Vestergaard,2,medio,titular,12
+ Simon Kjaer,3,medio,titular,12
+ Andreas Christensen,4,medio,titular,12
+ Andreas Bjelland,5,medio,titular,12
+ Mathias Jorgensen,6,delantero,titular,12
+ Jens Stryger Larsen,7,delantero,titular,12
+ Peter Ankersen,8,delantero,titular,12
+ Riza Durmisi,9,delantero,titular,12
+ William Kvist,10,defensa,titular,12
+ Thomas Delaney,11,defensa,titular,12
+ Christian Eriksen,12,defensa,banca,12
+ Lasse Schone,13,defensa,banca,12
+ Pione Sisto,14,defensa,banca,12
+ Nicklas Bendtner,15,defensa,banca,12
+ Nicolai Jorgensen,16,defensa,banca,12
+ Yussuf Poulsen,17,defensa,banca,12
+ Andreas Cornelius,18,defensa,banca,12
+ Sergio Romero,1,portero,titular,13
+ Gabriel Mercado,2,medio,titular,13
+ Federico Fazio,3,medio,titular,13
+ Javier Mascherano,4,medio,titular,13
+ Nicolas Otamendi,5,medio,titular,13
+ Marcos Rojo,6,delantero,titular,13
+ Ramiro Funes Mori,7,delantero,titular,13
+ Lucas Biglia,8,delantero,titular,13
+ Enzo Perez,9,delantero,titular,13
+ Angel Di Maria,10,defensa,titular,13
+ Marcos Acuna,11,defensa,titular,13
+ Ever Banega,12,defensa,banca,13
+ Eduardo Salvio,13,defensa,banca,13
+ Mauro Icardi,14,defensa,banca,13
+ Lionel Messi,15,defensa,banca,13
+ Paulo Dybala,16,defensa,banca,13
+ Sergio Aguero,17,defensa,banca,13
+ Gonzalo Higuain,18,defensa,banca,13
+ Hannes Halldorsson,1,portero,titular,14
+ Birkir Saevarsson,2,medio,titular,14
+ Ragnar Sigurosson,3,medio,titular,14
+ Kari Arnason,4,medio,titular,14
+ Ari Skulason,5,medio,titular,14
+ Sverrir Ingason,6,delantero,titular,14
+ Hordur Magnusson,7,delantero,titular,14
+ Aron Gunnarsson,8,delantero,titular,14
+ Birkir Bjarnason,9,delantero,titular,14
+ Emil Hallfredsson,10,defensa,titular,14
+ Gylfi Sigurdsson,11,defensa,titular,14
+ Arnor Ingvi Traustason,12,defensa,banca,14
+ Rurik Gislason,13,defensa,banca,14
+ Johann Gudmundsson,14,defensa,banca,14
+ Alfred Finnbogason,15,defensa,banca,14
+ Jon Dadi Bodvarsson,16,defensa,banca,14
+ Vidar Orn Kjartansson,17,defensa,banca,14
+ Bjorn Sigurdarson,18,defensa,banca,14
+ Danijel Subasic,1,portero,titular,15
+ Sime Vrsaljko,2,medio,titular,15
+ Ivan Strinic,3,medio,titular,15
+ Dejan Lovren,4,medio,titular,15
+ Domagoj Vida,5,medio,titular,15
+ Josip Pivaric,6,delantero,titular,15
+ Vedran Corluka,7,delantero,titular,15
+ Ivan Rakitic,8,delantero,titular,15
+ Luka Modric,9,delantero,titular,15
+ Marcelo Brozovic,10,defensa,titular,15
+ Marko Rog,11,defensa,titular,15
+ Mario Pasalic,12,defensa,banca,15
+ Milan Badelj,13,defensa,banca,15
+ Mateo Kovacic,14,defensa,banca,15
+ Andrej Kramaric,15,defensa,banca,15
+ Nikola Kalinic,16,defensa,banca,15
+ Mario Mandzukic,17,defensa,banca,15
+ Ivan Perisic,18,defensa,banca,15
+ Ikechukwu Ezenwa,1,portero,titular,16
+ Elderson Echiejile,2,medio,titular,16
+ Shehu Abdullahi,3,medio,titular,16
+ William Troost Ekong,4,medio,titular,16
+ Leon Balogun,5,medio,titular,16
+ Kenneth Omeruo,6,delantero,titular,16
+ Ola Aina,7,delantero,titular,16
+ John Obi Mikel,8,delantero,titular,16
+ Ogenyi Onazi,9,delantero,titular,16
+ Etebo Oghenekaro ,10,defensa,titular,16
+ Wilfred Ndidi,11,defensa,titular,16
+ Mikel Agu,12,defensa,banca,16
+ Ahmed Musa,13,defensa,banca,16
+ Victor Moses,14,defensa,banca,16
+ Moses Simon,15,defensa,banca,16
+ Odion Ighalo,16,defensa,banca,16
+ Ales Iwobi,17,defensa,banca,16
+ Kelechi Iheanacho,18,defensa,banca,16
+ Alisson,1,portero,titular,17
+ Dani Alves,2,medio,titular,17
+ Thiago Silva,3,medio,titular,17
+ Miranda,4,medio,titular,17
+ Filipe Luis,5,medio,titular,17
+ Marquinhos,6,delantero,titular,17
+ Marcelo,7,delantero,titular,17
+ Willian,8,delantero,titular,17
+ Paulinho,9,delantero,titular,17
+ Fernandinho,10,defensa,titular,17
+ Casemiro,11,defensa,titular,17
+ Renato Augusto,12,defensa,banca,17
+ Giuliano,13,defensa,banca,17
+ Philippe Coutinho,14,defensa,banca,17
+ Douglas Costa,15,defensa,banca,17
+ Roberto Firmino,16,defensa,banca,17
+ Gabriel Jesus,17,defensa,banca,17
+ Neymar Jr,18,defensa,banca,17
+ Yann Sommer,1,portero,titular,18
+ Stephan Lichtsteiner,2,medio,titular,18
+ Manuel Akanji,3,medio,titular,18
+ Michael Lang,4,medio,titular,18
+ Ricardo Rodriguez,5,medio,titular,18
+ Johan Djourou,6,delantero,titular,18
+ Fabian Schar,7,delantero,titular,18
+ Granit shaka ,8,delantero,titular,18
+ Steven Zuber,9,delantero,titular,18
+ Blerim Dzemaili,10,defensa,titular,18
+ Denis Zakaria,11,defensa,titular,18
+ sherdan Shaqiri,12,defensa,banca,18
+ Valon Behrami,13,defensa,banca,18
+ Gelson Fernandes,14,defensa,banca,18
+ Breel Embolo ,15,defensa,banca,18
+ Haris Seferovic ,16,defensa,banca,18
+ Admir Mehmedi ,17,defensa,banca,18
+ Eren Derdiyok ,18,defensa,banca,18
+ Keylor Navas,1,portero,banca,19
+ Giancarlo Gonzalez,2,medio,titular,19 
+ Cristian Gamboa ,3,medio,titular,19
+ Bryan Oviedo ,4,medio,titular,19
+ Francisco Calvo,5,medio,titular,19 
+ Kendall Waston,6,delantero,titular,19 
+ Ronald Matarrita,7,delantero,titular,19 
+ Michael Umana,8,delantero,titular,19
+ Johnny Acosta ,9,delantero,titular,19
+ Bryan Ruiz,10,defensa,titular,19
+ Celso Borges,11,defensa,titular,19 
+ Christian Bolanos,12,defensa,titular,19
+ Randall Azofeifa,13,defensa,banca,19
+ David Guzman,14,defensa,banca,19 
+ Rodney Wallace,15,defensa,banca,19 
+ Joel Campbell,16,defensa,banca,19
+ Marco Urena,17,defensa,banca,19 
+ Johan Venegas,18,defensa,banca,19 
+ Vladimir Stojkovic,1,portero,banca,20
+ Branislav Ivanovic,2,medio,titular,20
+ Aleksandar Kolarov,3,medio,titular,20
+ Antonio Rukavina,4,medio,titular,20
+ Matija Nastasic,5,medio,titular,20
+ Dusko Tosic,6,delantero,titular,20
+ Nikola Maksimovic,7,delantero,titular,20
+ Jagos Vukovic,8,delantero,titular,20
+ Dusan Tadic,9,delantero,titular,20
+ Sergej Milinkovic Savic,10,defensa,titular,20
+ Nemanja Matic,11,defensa,titular,20
+ Luka Milivojevic,12,defensa,titular,20
+ Adem Ljajic ,13,defensa,banca,20
+ Nemanja Gudelj,14,defensa,banca,20 
+ Mijat Gacinovic,15,defensa,banca,20 
+ Filip Kostic,16,defensa,banca,20
+ Aleksandar Mitrovic,17,defensa,banca,20
+ Aleksandar Prijovic,18,defensa,banca,20
+ Manuel Neuer,1,portero,titular,21
+ Mats Hummels,2,medio,titular,21 
+ Antonio Rudiger,3,medio,titular,21 
+ Jerome Boateng,4,medio,titular,21 
+ Joshua Kimmich,5,medio,titular,21 
+ Jonas Hector,6,delantero,titular,21 
+ Julian Drasler,7,delantero,titular,21 
+ Toni Kroos,8,delantero,titular,21 
+ Emre Can,9,delantero,titular,21
+ Leon Goretzka,10,defensa,titular,21 
+ Julian Brandt,11,defensa,titular,21
+ Sebastian Rudy,12,defensa,banca,21 
+ Leroy Sane,13,defensa,banca,21 
+ Mesut Ozil,14,defensa,banca,21 
+ Sami Khedira,15,defensa,banca,21 
+ Mario Gotze,16,defensa,banca,21 
+ Thomas Muller,17,defensa,banca,21 
+ Timo Werner,18,defensa,banca,21 
+ Guillermo Ochoa,1,portero,titular,22
+ Hugo Ayala ,2,medio,titular,22
+ Diego Reyes,3,medio,titular,22 
+ Hector Moreno,4,medio,titular,22 
+ Jesus Gallardo,5,medio,titular,22 
+ Miguel Layun,6,delantero,titular,22 
+ Carlos Salcedo,7,delantero,titular,22 
+ Jonathan dos Santos,8,delantero,titular,22 
+ Giovani dos Santos ,9,delantero,titular,22
+ Andres Guardado ,10,defensa,titular,22
+ Hector Herrera ,11,defensa,titular,22
+ Javier Aquino ,12,defensa,banca,22
+ Jesus Corona ,13,defensa,banca,22
+ Hirving Lozano ,14,defensa,banca,22
+ Raul Jimenez ,15,defensa,banca,22
+ Carlos Vela ,16,defensa,banca,22
+ Javier Hernandez ,17,defensa,banca,22
+ Oribe Peralta ,18,defensa,banca,22
+ Robin Olsen ,1,portero,titular,23
+ Mikael Lustig,2,medio,titular,23 
+ Victor Nilsson Lindelof ,3,medio,titular,23
+ Andreas Granqvist ,4,medio,titular,23
+ Martin Olsson ,5,medio,titular,23
+ Ludwig Augustinsson ,6,delantero,titular,23
+ Emil Krafth ,7,delantero,titular,23
+ Pontus Jansson ,8,delantero,titular,23
+ Sebastian Larsson ,9,delantero,titular,23
+ Emil Forsberg ,10,defensa,titular,23
+ Gustav Svensson,11,defensa,titular,23
+ Viktor Claesson ,12,defensa,banca,23
+ Jimmy Durmaz ,13,defensa,banca,23
+ Albin Ekdal ,14,defensa,banca,23
+ Isaac Kiese Thelin ,15,defensa,banca,23
+ Marcus Berg ,16,defensa,banca,23
+ John Guidetti ,17,defensa,banca,23
+ Ola Toivonen ,18,defensa,banca,23
+ Kim Seung gyu,1,portero,titular,24
+ Kim Young gwon,2,medio,titular,24
+ Kim Jin su,3,medio,titular,24
+ Kwak Tae hwi,4,medio,titular,24
+ Hong Jeong ho,5,medio,titular,24
+ Jang Hyun soo,6,delantero,titular,24
+ Koo Ja cheol,7,delantero,titular,24
+ Kwon Chang hoon,8,delantero,titular,24
+ Ki Sung yueng,9,delantero,titular,24
+ Nam Tae hee,10,defensa,titular,24
+ Han Kook young,11,defensa,titular,24
+ Lee Chung yong,12,defensa,banca,24
+ Jung Woo young,13,defensa,banca,24
+ Lee Jae sung,14,defensa,banca,24
+ Son Heung min,15,defensa,banca,24
+ Ji Dong won,16,defensa,banca,24
+ Kim Shin wook,17,defensa,banca,24
+ Hwang Hee chan,18,defensa,banca,24
+ Thibaut Courtois,1,portero,titular,25
+ Toby Alderweireld,2,medio,titular,25
+ Thomas Vermaelen,3,medio,titular,25
+ Jan Vertonghen,4,medio,titular,25
+ Vincent Kompany,5,medio,titular,25
+ Thomas Meunier,6,delantero,titular,25
+ Asel Witsel,7,delantero,titular,25
+ Radja Nainggolan,8,delantero,titular,25
+ Kevin De Bruyne,9,delantero,titular,25
+ Marouane Fellaini,10,defensa,titular,25
+ Youri Tielemans,11,defensa,titular,25
+ Mousa Dembele,12,defensa,banca,25
+ Nacer Chadli,13,defensa,banca,25
+ Eden Hazard,14,defensa,banca,25
+ Yannick Carrasco,15,defensa,banca,25
+ Dries Mertens,16,defensa,banca,25
+ Michy Batshuayi,17,defensa,banca,25
+ Romelu Lukaku,18,defensa,banca,25
+ Jaime Penedo,1,portero,titular,26
+ Jose Calderon,2,medio,titular,26
+ Michael Murillo,3,medio,titular,26
+ Fidel Escobar,4,medio,titular,26
+ Roman Torres,5,medio,titular,26
+ Adolfo Machado,6,delantero,titular,26
+ Eric Davis,7,delantero,titular,26
+ Luis Ovalle,8,delantero,titular,26
+ Felipe Baloy,9,delantero,titular,26
+ Gabriel Gomez,10,defensa,titular,26
+ Edgar Barcenas,11,defensa,titular,26
+ Armando Cooper,12,defensa,banca,26
+ Alberto Quintero,13,defensa,banca,26
+ Anibal Godoy,14,defensa,banca,26
+ Blas Perez,15,defensa,banca,26
+ Gabriel Torres,16,defensa,banca,26
+ Luis Tejada,17,defensa,banca,26
+ Abdiel Arroyo,18,defensa,banca,26
+ Aymen Mathlouthi,1,portero,titular,27
+ Ali Maaloul,2,medio,titular,27
+ Syam Ben Youssef,3,medio,titular,27
+ Aymen Abdennour,4,medio,titular,27
+ Hamdi Nagguez,5,medio,titular,27
+ Yassine Meriah,6,delantero,titular,27
+ Oussama Haddadi,7,delantero,titular,27
+ Ferjani Sassi,8,delantero,titular,27
+ Wahbi Khazri,9,delantero,titular,27
+ Mohamed Amine Ben Amor,10,defensa,titular,27
+ Ghailene Chaalali,11,defensa,titular,27
+ Naim Sliti,12,defensa,banca,27
+ Youssef Msakni,13,defensa,banca,27
+ Fakhreddine Ben Youssef,14,defensa,banca,27
+ Taha Yassine Khenissi,15,defensa,banca,27
+ Yoann Touzghar,16,defensa,banca,27
+ Anice Badri,17,defensa,banca,27
+ Ahmed Akaichi,18,defensa,banca,27
+ Joe Hart,1,portero,titular,28
+ Jordan Pickford,2,medio,titular,28
+ Gary Cahill,3,medio,titular,28
+ Kyle Walker,4,medio,titular,28
+ John Stones,5,medio,titular,28
+ Ryan Bertrand,6,delantero,titular,28
+ Danny Rose,7,delantero,titular,28
+ Phil Jones,8,delantero,titular,28
+ Jordan Henderson,9,delantero,titular,28
+ Ales Oslade Chamberlain,10,defensa,titular,28
+ Dele Alli,11,defensa,titular,28
+ Eric Dier,12,defensa,banca,28
+ Adam Lallana,13,defensa,banca,28
+ Jesse Lingard,14,defensa,banca,28
+ Raheem Sterling,15,defensa,banca,28
+ Harry Kane,16,defensa,banca,28
+ Marcus Rashford,17,defensa,banca,28
+ Jamie Vardy,18,defensa,banca,28
+ Lukasz Fabianski,1,portero,titular,29
+ Wojciech Szczesny,2,medio,titular,29
+ Lukasz Piszczek,3,medio,titular,29
+ Kamil Glik,4,medio,titular,29
+ Michal Pazdan,5,medio,titular,29
+ Thiago Cionek,6,delantero,titular,29
+ Bartosz Bereszynski,7,delantero,titular,29
+ Artur Jedrzejczyk,8,delantero,titular,29
+ Maciej Rybus,9,delantero,titular,29
+ Jakub Blaszczykowski,10,defensa,titular,29
+ Kamil Grosicki,11,defensa,titular,29
+ Grzegorz Krychowiak,12,defensa,banca,29
+ Krzysztof Maczynski,13,defensa,banca,29
+ Piotr Zielinski,14,defensa,banca,29
+ Karol Linetty,15,defensa,banca,29
+ Robert Lewandowski,16,defensa,banca,29
+ Lukasz Teodorczyk,17,defensa,banca,29
+ Arkadiusz Milik,18,defensa,banca,29
+ Khadim N'Diaye,1,portero,titular,30
+ Kara Mbodji,2,medio,titular,30
+ Lamine Gassama,3,medio,titular,30
+ Kalidou Koulibaly,4,medio,titular,30
+ Salif Sane,5,medio,titular,30
+ Saliou Ciss,6,delantero,titular,30
+ Moussa Wague,7,delantero,titular,30
+ Idrissa Gueye,8,delantero,titular,30
+ Cheikhou Kouyate,9,delantero,titular,30
+ Cheikh Ndoye,10,defensa,titular,30
+ Pape Alioune N'Diaye,11,defensa,titular,30
+ Sadio Mane,12,defensa,banca,30
+ Moussa Sow,13,defensa,banca,30
+ Moussa Konate,14,defensa,banca,30
+ Keita Balde,15,defensa,banca,30
+ M'Baye Niang,16,defensa,banca,30
+ Ismaila Sarr,17,defensa,banca,30
+ Mame Diouf,18,defensa,banca,30
+ David Ospina,1,portero,titular,31
+ Cristian Zapata,2,medio,titular,31
+ Santiago Arias,3,medio,titular,31
+ Frank Fabra,4,medio,titular,31
+ Davinson Sanchez,5,medio,titular,31
+ Yerry Mina,6,delantero,titular,31
+ Carlos Sanchez,7,delantero,titular,31
+ Juan Guillermo Cuadrado,8,delantero,titular,31
+ Abel Aguilar,9,delantero,titular,31
+ James Rodriguez,10,defensa,titular,31
+ Giovanni Moreno,11,defensa,titular,31
+ Wílmar Barrios,12,defensa,banca,31
+ Radamel Falcao Garcia,13,defensa,banca,31
+ Teofilo Gutierrez,14,defensa,banca,31
+ Carlos Bacca,15,defensa,banca,31
+ Edwin Cardona,16,defensa,banca,31
+ Yimmi Chara,17,defensa,banca,31
+ Duvan Zapata,18,defensa,banca,31
+ Eiji Kawashima,1,portero,titular,32
+ Shusaku Nishikawa,2,medio,titular,32
+ Masato Morishige,3,medio,titular,32
+ Yuto Nagatomo,4,medio,titular,32
+ Hiroki Sakai,5,medio,titular,32
+ Tomoaki Makino,6,delantero,titular,32
+ Gotoku Sakai,7,delantero,titular,32
+ Maya Yoshida,8,delantero,titular,32
+ Hotaru Yamaguchi,9,delantero,titular,32
+ Shinji Kagawa,10,defensa,titular,32
+ Makoto Hasebe,11,defensa,titular,32
+ Hiroshi Kiyotake,12,defensa,banca,32
+ Keisuke Honda,13,defensa,banca,32
+ Takashi Usami,14,defensa,banca,32
+ Genki Haraguchi,15,defensa,banca,32
+ Shinji Okazaki,16,defensa,banca,32
+ Yuya Kubo,17,defensa,banca,32
+ Yuya Osako,18,defensa,banca,32
